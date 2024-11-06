@@ -78,9 +78,8 @@ Discover more projects in our repositories. Feel free to dive in, contribute, an
 
 | Platform       | Link                            |
 |----------------|---------------------------------|
-| 🌐 **Website** | [Prayam Infosoft](#)            |
-| 💼 **LinkedIn**| [LinkedIn Profile](#)           |
-| 🐦 **Twitter** | [@PrayamInfosoft](#)            |
+| 🌐 **Website** | [Prayam Infosoft](www.prayaminfosoft.com)            |
+| 💼 **LinkedIn**| [LinkedIn Profile](www.linkedin.com/company/prayam-infosoft)           |
 
 ---
 
