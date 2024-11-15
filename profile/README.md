@@ -64,9 +64,7 @@ Our team turns bold ideas into sustainable solutions, bridging creativity and fu
 
 **Here are some projects you'll find in our repositories:**
 
-🎓 **Gyan Kosh** — Your ultimate school management system  
-🏠 **Hostel Hub** — Everything you need for hostel management  
-📚 **Library Logic** — Simplifying library organization  
+LAUNCHING SOON
 
 Discover more projects in our repositories. Feel free to dive in, contribute, and help us make an impact!
 
