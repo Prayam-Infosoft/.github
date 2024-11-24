@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> **Welcome to Prayam Infosoft's GitHub Space!**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> **Welcome to Sylvorn's GitHub Space!**
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🌟 **Our Mission**
 
-At **Prayam Infosoft**, we are dedicated to bringing technology and people together through **creative solutions, robust software**, and **expert services**.  
+At **Sylvorn**, we are dedicated to bringing technology and people together through **creative solutions, robust software**, and **expert services**.  
 We focus on **delivering results** that fuel growth and streamline operations for businesses of all sizes.
 
 ---
@@ -76,14 +76,14 @@ Discover more projects in our repositories. Feel free to dive in, contribute, an
 
 | Platform       | Link                            |
 |----------------|---------------------------------|
-| 🌐 **Website** | [Prayam Infosoft](www.prayaminfosoft.com)            |
-| 💼 **LinkedIn**| [LinkedIn Profile](https://linkedin.com/company/prayam-infosoft)           |
+| 🌐 **Website** | [Sylvorn](www.sylvorn.com)            |
+| 💼 **LinkedIn**| [LinkedIn Profile](https://linkedin.com/company/sylvorn)           |
 
 ---
 
 ## 📬 **Get in Touch**
 
-For inquiries, collaborations, or just to say hi, drop us a line at **hello@prayaminfosoft.com**. We’re excited to connect with you!
+For inquiries, collaborations, or just to say hi, drop us a line at **hello@sylvorn.com**. We’re excited to connect with you!
 
 ---
 
